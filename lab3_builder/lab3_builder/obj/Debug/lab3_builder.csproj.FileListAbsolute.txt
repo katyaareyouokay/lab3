@@ -1,0 +1,14 @@
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\obj\Debug\lab3_builder.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\obj\Debug\lab3_builder.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\bin\Debug\lab3_builder.exe.config
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\bin\Debug\lab3_builder.exe
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\bin\Debug\lab3_builder.pdb
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\obj\Debug\lab3_builder.exe
+C:\Users\4koa\source\repos\lab3_builder\lab3_builder\obj\Debug\lab3_builder.pdb
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\bin\Debug\lab3_builder.exe.config
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\bin\Debug\lab3_builder.exe
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\bin\Debug\lab3_builder.pdb
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\obj\Debug\lab3_builder.csproj.AssemblyReference.cache
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\obj\Debug\lab3_builder.csproj.CoreCompileInputs.cache
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\obj\Debug\lab3_builder.exe
+C:\Users\4koa\Desktop\rep3\lab3_builder\lab3_builder\obj\Debug\lab3_builder.pdb

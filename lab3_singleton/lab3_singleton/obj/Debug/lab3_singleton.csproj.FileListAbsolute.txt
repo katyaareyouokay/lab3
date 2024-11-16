@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\bin\Debug\lab3_singleton.exe.config
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\bin\Debug\lab3_singleton.exe
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\bin\Debug\lab3_singleton.pdb
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\obj\Debug\lab3_singleton.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\obj\Debug\lab3_singleton.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\obj\Debug\lab3_singleton.exe
+C:\Users\4koa\source\repos\lab3_singleton\lab3_singleton\obj\Debug\lab3_singleton.pdb

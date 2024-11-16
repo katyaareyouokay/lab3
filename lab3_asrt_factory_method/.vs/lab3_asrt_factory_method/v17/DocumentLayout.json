@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|c:\\users\\4koa\\desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\cdfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\cdfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\vinylfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\vinylfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\imusicfactorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\imusicfactorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\cdcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\cdcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\vinylcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\vinylcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\icover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\icover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\vinylplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154A1D56-71BF-4EA6-8759-B2DB27DC4AE8}|lab3_asrt_factory_method\\lab3_asrt_factory_method.csproj|solutionrelative:lab3_asrt_factory_method\\vinylplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\Program.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\Program.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\Program.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:15:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VinylFactory.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylFactory.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\VinylFactory.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylFactory.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\VinylFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:43:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMusicFactorycs.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\IMusicFactorycs.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\IMusicFactorycs.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\IMusicFactorycs.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\IMusicFactorycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:42:55.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDCover.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDCover.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\CDCover.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDCover.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\CDCover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:39:07.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\IPlayer.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\IPlayer.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\IPlayer.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\IPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:33:00.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDFactory.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDFactory.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\CDFactory.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDFactory.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\CDFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:44:50.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VinylCover.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylCover.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\VinylCover.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylCover.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\VinylCover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:38:18.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICover.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\ICover.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\ICover.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\ICover.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\ICover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:37:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CDPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDPlayer.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\CDPlayer.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\CDPlayer.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\CDPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:36:19.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VinylPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylPlayer.cs",
+              "RelativeDocumentMoniker": "lab3_asrt_factory_method\\VinylPlayer.cs",
+              "ToolTip": "C:\\Users\\4koa\\Desktop\\rep3\\lab3_asrt_factory_method\\lab3_asrt_factory_method\\VinylPlayer.cs",
+              "RelativeToolTip": "lab3_asrt_factory_method\\VinylPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:35:17.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

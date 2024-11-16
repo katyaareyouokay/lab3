@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\bin\Debug\lab3_asrt_factory_method.exe.config
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\bin\Debug\lab3_asrt_factory_method.exe
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\bin\Debug\lab3_asrt_factory_method.pdb
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\obj\Debug\lab3_asrt_factory_method.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\obj\Debug\lab3_asrt_factory_method.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\obj\Debug\lab3_asrt_factory_method.exe
+C:\Users\4koa\source\repos\lab3_asrt_factory_method\lab3_asrt_factory_method\obj\Debug\lab3_asrt_factory_method.pdb
